@@ -343,14 +343,14 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"DoDo/Preview Content\"";
-				DEVELOPMENT_TEAM = K33F3342MJ;
+				DEVELOPMENT_TEAM = P9V576CEPD;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/DoDo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.atliq.boilerplate.todo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mattdanielbrown.todo;
 				PRODUCT_NAME = dodo;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -365,14 +365,14 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"DoDo/Preview Content\"";
-				DEVELOPMENT_TEAM = K33F3342MJ;
+				DEVELOPMENT_TEAM = P9V576CEPD;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/DoDo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.atliq.boilerplate.todo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mattdanielbrown.todo;
 				PRODUCT_NAME = dodo;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
